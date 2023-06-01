@@ -1,11 +1,11 @@
 # ironmon-patches
-Various patches for the IronMON Ruleset 
 
-Faster Emerald Patch for Pokemon Emerald  
-https://github.com/DrMaple/ironmon-patches/releases/tag/FasterEmeraldv1.2.1  
+This repository has been discontinued and is now split in to multiple repositories.
 
-Faster Sapphire Patch for Pokemon Sapphire  
-https://github.com/DrMaple/ironmon-patches/releases/tag/FasterSapphirev1.0  
-  
-FireRed/LeafGreen Step Farm Item Patches  
-https://github.com/DrMaple/ironmon-patches/releases/tag/FRLGItemSpawns  
+[Faster Fire Red](https://github.com/DrMaple/Faster-Fire-Red)
+
+[Faster Emerald](https://github.com/DrMaple/Faster-Emerald)
+
+[Faster Sapphire](https://github.com/DrMaple/Faster-Sapphire)
+
+[IronMON Patch Editor](https://github.com/DrMaple/IronMONPatchEditor)
